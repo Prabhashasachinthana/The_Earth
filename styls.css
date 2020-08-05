@@ -1,0 +1,346 @@
+<style type="text/css">
+.headwrapper {
+	background-color: #666;
+	width: 1000px;
+}
+.earthimg{
+	float: left;	
+}
+
+
+.imagersBar {
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 100px;
+	
+}
+.hrtag {
+	width: 100%;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #3CF;
+}
+.details {
+	width: 1000px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #0F3;
+	border-right-color: #0F3;
+	border-bottom-color: #0F3;
+	border-left-color: #0F3;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	height: auto;
+	overflow: hidden;
+}
+.lasthr {
+	width: 100%;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #0CF;
+}
+
+.detailsEnter {
+	width:250px;
+	float: right;
+}
+.detailsEnter2 {
+	width: 750px;
+	border-left-style: none;
+	border-top-color: #09F;
+	border-right-color: #09F;
+	border-bottom-color: #09F;
+	border-left-color: #09F;
+	float: left;
+	border-right-style: solid;
+}
+.ImagersBarImagers {
+	float: left;
+	height: 100px;
+	width: 225px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color:#909;
+	border-right-color:#C69;
+	border-bottom-color: #909;
+	border-left-color: #C69;
+}
+.ptag{
+	font-family: "MV Boli";
+	font-size: 18px;
+	color: #999;
+	}
+
+
+
+}
+.h2tags{
+	color: #000080;	
+	}
+.ptag2{
+	color: #666;	
+	}
+	.videosEnter {
+	width: 1000px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: solid;
+	border-left-style: none;
+	border-top-color: #999;
+	border-right-color: #999;
+	border-bottom-color: #999;
+	border-left-color: #999;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+}
+.videospopuler {
+	width: 500px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: ;
+	border-right-color: ;
+	border-bottom-color: ;
+	border-left-color: ;
+}
+.VideosHr {
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #3FF;
+	border-right-color: #3FF;
+	border-bottom-color: #3FF;
+	border-left-color: #3FF;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.Videosptag1{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;	
+	}
+.videoPtag2{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 10px;
+	font-style: italic;		
+	}
+.moreVideos {
+	height: auto;
+	width: 1000px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #9F9;
+	border-right-color: #9F9;
+	border-bottom-color: #9F9;
+	border-left-color: #9F9;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	overflow: hidden;
+}
+.videos {
+	width: 330px;
+	border-top-style: ;
+	border-right-style: solid;
+	border-bottom-style: ;
+	border-left-style: ;
+	border-top-color: #0F6;
+	border-right-color: #0F6;
+	border-bottom-color: #0F6;
+	border-left-color: #0F6;
+	float: left;
+	height: 300px;
+	border-right-width: thin;
+}
+.moreinformation {
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #9F0;
+	border-right-color: #9F0;
+	border-bottom-color: #9F0;
+	border-left-color: #9F0;
+	margin-top: 20px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+.aboutusHr {
+	width: 100%;
+	border: thin solid #3CF;
+}
+
+.aboutus {
+	width: 1000px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #36F;
+	border-right-color: #36F;
+	border-bottom-color: #36F;
+	border-left-color: #36F;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+	margin-top: 20px;
+}
+
+.adoutUsdetails {
+	height: auto;
+	width: 800px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #9C0;
+	border-right-color: #9C0;
+	border-bottom-color: #9C0;
+	border-left-color: #9C0;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: hidden;
+}
+
+.aboutusrightside {
+	height: auto;
+	width: 600px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #C60;
+	border-right-color: #C60;
+	border-bottom-color: #C60;
+	border-left-color: #C60;
+}
+.aboutusPtag{
+	font-family:Chiller;
+	font-size:36px;
+		
+	}
+.inputstyle{
+	width: 700px;
+	margin-left: 130px;
+	border: thin solid #0CC;
+	}
+.labelstyle{
+	float: left;
+	margin-top: 5px;
+	font-family: Harrington;
+	font-size: 18px;
+	font-weight: bold;
+	color: #400040;
+	}
+.h1styleaboutus{
+	font-family:Poor Richard;
+	font-size: 30px;
+	font-weight: bold;
+	color: #099;	
+	}
+.aboutusFormDiv{
+	width: 900px;
+	border: thin solid #33C;
+	overflow: hidden;
+	padding-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #D2E2D1;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+	}
+
+.ideabar {
+	width: 900px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #06C;
+	border-right-color: #06C;
+	border-bottom-color: #06C;
+	border-left-color: #06C;
+	overflow: hidden;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.aboutUsImg {
+	float: left;
+	height: auto;
+	width: 100px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #9C3;
+	border-right-color: #9C3;
+	border-bottom-color: #9C3;
+	border-left-color: #9C3;
+	overflow: hidden;
+}
+
+.aboutUsIdea {
+	float: left;
+	height: auto;
+	width: 750px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #09F;
+	border-right-color: #09F;
+	border-bottom-color: #09F;
+	border-left-color: #09F;
+	font-family: Forte;
+	font-size: 20px;
+	margin-top: 20px;
+}
+ .imagerspage {
+	height: auto;
+	width: 100%;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+	margin-right: 30px;
+	margin-left: 30px;
+	margin-top: auto;
+	margin-bottom: 20px;
+	overflow: hidden;
+}
+ 
+.imge {
+	float: left;
+	height: auto;
+	width: 240px;
+	border: thin none #000;
+	margin-right: 8px;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+  </style>
